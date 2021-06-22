@@ -3,7 +3,7 @@
 
 Hi, I'm Kuhan Dhanyan  <a href="https://www.linkedin.com/in/kuhan-dhanyan/">
   <img  alt="Kuhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>, a full stack developer from Malaysia. My main interest is on new technologies, finding solutions for problems & doing Proof Of Concepts.<br />
+</a>, a full stack developer from Malaysia. My main interest is on exploring new technologies, finding solutions for technical problems & doing Proof Of Concepts.<br />
 
 **Languages and Tools:**  
 
