@@ -1,13 +1,14 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/kuhan-dhanyan/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Hi there 👋   ![visitors](https://visitor-badge.glitch.me/badge?page_id=kdhanyan.visitor-badge.issue.1)
 
-Hi, I'm Kuhan Dhanyan , a full stack developer from Malaysia. My main interest is on new technologies, finding solutions for problems & doing Proof Of Concepts.
+
+Hi, I'm Kuhan Dhanyan  <a href="https://www.linkedin.com/in/kuhan-dhanyan/">
+  <img  alt="Kuhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>, a full stack developer from Malaysia. My main interest is on new technologies, finding solutions for problems & doing Proof Of Concepts.<br />
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://iconape.com/wp-content/files/wd/371584/svg/371584.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://iconape.com/wp-content/files/xm/353339/svg/microsoft-sql-server-seeklogo.com.svg"></code>
